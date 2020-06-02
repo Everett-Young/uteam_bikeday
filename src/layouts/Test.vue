@@ -296,12 +296,10 @@
 		.answer-item {
 			width: 100%;
 		}
-
 		.test-score,
 		.test-title {
 			font-size: 24px;
 		}
-
 		.test-result-wrapper {
 			padding: 15px;
 			margin-top: 50px;
